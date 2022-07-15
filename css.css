@@ -1,0 +1,42 @@
+html {
+    box-sizing: border-box;
+    font-family: 'Roboto', 'sans-serif';
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+}
+body{
+    background: rgb(63,8,102);
+}
+img {
+    border-style: none;
+}
+h1 {
+    font-size: 3em;
+    margin: 0.67em 0;
+}
+.u-text-body-alt-color {
+    color: #ffffff !important;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.u-expanded-width {
+    width: 20% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.u-image{
+    object-fit: cover;
+    display: block;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+.u-svg-link {
+    width: 100%;
+    height: 100%;
+    fill: red;
+}
