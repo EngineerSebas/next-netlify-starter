@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Bienvenidos a EasyVet!" />
         <p className="description">
-          Empezamos a hacer codigo<code>pages/index.js</code>
+          Empezamos a hacer codigo<code>pages/index.jsss</code>
         </p>
       </main>
 
